@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from master
+=======
+Hello from conflict-test
+>>>>>>> conflict-test
